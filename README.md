@@ -12,7 +12,7 @@
 ## Documentation
 
 ## License
-&emsp;[Apache License Version 2.0](https://github.com/SonyCSL/apis-service_center/blob/main/LICENSE)
+&emsp;[Apache License Version 2.0](https://github.com/SonyCSL/apis-tester/blob/main/LICENSE)
 
 
 ## Notice
