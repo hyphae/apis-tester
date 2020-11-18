@@ -16,4 +16,4 @@
 
 
 ## Notice
-&emsp;[Notice](https://github.com/SonyCSL/apis-service_center/blob/main/NOTICE.md)
+&emsp;[Notice](https://github.com/SonyCSL/apis-tester/blob/main/NOTICE.md)
