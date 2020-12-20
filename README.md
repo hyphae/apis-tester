@@ -18,10 +18,7 @@ $ deactivate
 
 ## Running
 
-Here is how to run apis-dcdc_batt_comm individually.  
-
-*By default, 2 USB-RS485 converters are required for /dev/ttyUSB0 and /dev/ttyUSB1.  
-See apis-dcdc_batt_comm's [Document](https://github.com/SonyCSL/apis-dcdc_batt_comm/blob/master/doc/jp/apis-dcdc_batt_comm_specification.md) for more information.
+Here is how to run apis-tester individually.  
 
 ```bash
 $ cd apis-tester
