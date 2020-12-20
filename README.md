@@ -10,12 +10,9 @@ APIS Tester is a tool for testing and evaluation of APIS. It can be used to eval
 Here is how to install apis-dcdc_batt_comm individually.   
 
 ```bash
-$ git clone https://github.com/SonyCSL/apis-dcdc_batt_comm.git
-$ cd apis-dcdc_batt_comm
-$ python3 -m venv venv
-$ . venv/bin/activate
-$ sudo pip3 install -r requirements.txt
-$ deactivate
+$ git clone https://github.com/SonyCSL/apis-tester.git
+$ cd apis-tester
+$ bash venvsh
 ```
 
 ## Running
@@ -26,10 +23,9 @@ Here is how to run apis-dcdc_batt_comm individually.
 See apis-dcdc_batt_comm's [Document](https://github.com/SonyCSL/apis-dcdc_batt_comm/blob/master/doc/jp/apis-dcdc_batt_comm_specification.md) for more information.
 
 ```bash
-$ cd apis-dcdc_batt_comm
+$ cd apis-tester
 $ . venv/bin/activate
-$ cd drivers
-$ sudo python3 essx_server.py
+$ sudo python3 startTester.py
 ```
 
 ## Stopping
