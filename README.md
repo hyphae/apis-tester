@@ -25,6 +25,7 @@ $ cd apis-tester
 $ . venv/bin/activate
 $ python3 startTester.py
 ```
+Go to "0.0.0.0:10000/" in Web browser.
 
 ## Stopping
 Here is how to stop apis-tester individually.  
