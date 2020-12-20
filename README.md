@@ -12,7 +12,8 @@ Here is how to install apis-dcdc_batt_comm individually.
 ```bash
 $ git clone https://github.com/SonyCSL/apis-tester.git
 $ cd apis-tester
-$ bash venvsh
+$ bash venv.sh
+$ deactivate
 ```
 
 ## Running
@@ -25,14 +26,14 @@ See apis-dcdc_batt_comm's [Document](https://github.com/SonyCSL/apis-dcdc_batt_c
 ```bash
 $ cd apis-tester
 $ . venv/bin/activate
-$ sudo python3 startTester.py
+$ python3 startTester.py
 ```
 
 ## Stopping
-Here is how to stop apis-dcdc_batt_comm individually.  
+Here is how to stop apis-tester individually.  
 
 ```bash
-$ cd apis-dcdc_batt_comm/drivers
+$ cd apis-tester
 $ bash stop.sh
 $ deactivate
 ```
