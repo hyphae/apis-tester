@@ -37,6 +37,8 @@ $ deactivate
 ```
 
 ## Documentation
+&emsp;[apis-mian_tester_specification(EN)](https://github.com/SonyCSL/apis-tester/blob/main/doc/en/apis-tester_specification_EN.md)  
+&emsp;[apis-mian_tester_specification(JP)](https://github.com/SonyCSL/apis-tester/blob/main/doc/jp/apis-tester_specification_JP.md)
 
 ## License
 &emsp;[Apache License Version 2.0](https://github.com/SonyCSL/apis-tester/blob/main/LICENSE)
