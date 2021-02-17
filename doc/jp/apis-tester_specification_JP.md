@@ -370,7 +370,7 @@ Wait Logで監視する際に使用するKeyword例を参考として以下に�
 <td>dealIds</td>
 <tr class="odd">
 <td>DC Grid電圧立ち上げ</td>
-<td>VOLTAGE\_REFERENCE.execute()</td>
+<td>VOLTAGE_REFERENCE.execute()</td>
 </tr>
 <tr class="even">
 <td>DC Grid電圧Rampup終了</td>
@@ -388,21 +388,21 @@ Wait Logで監視する際に使用するKeyword例を参考として以下に�
 </tr>
 <tr class="even">
 <td>Discharge開始</td>
-<td>DcdcControllingCommand\] DISCHARGE.execute()</td>
+<td>DcdcControllingCommand] DISCHARGE.execute()</td>
 <tr class="odd">
 <td>電流Compensation成功</td>
 <td>compensated</td>
 </tr>
 <tr class="even">
 <td>電力融通積算開始</td>
-<td>mediator.util.DealUtil\] deal started</td>
+<td>mediator.util.DealUtil] deal started</td>
 <tr class="odd">
 <td>電力融通積算中</td>
-<td>mediator.util.DealUtil\] deal cumulated</td>
+<td>mediator.util.DealUtil] deal cumulated</td>
 </tr>
 <tr class="even">
 <td>電力融通積算ストップ</td>
-<td>mediator.util.DealUtil\] deal stopped</td>
+<td>mediator.util.DealUtil] deal stopped</td>
 </tbody>
 </table>
 
