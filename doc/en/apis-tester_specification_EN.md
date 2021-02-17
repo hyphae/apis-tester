@@ -372,7 +372,7 @@ Examples of keywords that are used when monitoring with Wait Log are listed belo
 <td>dealIds</td>
 <tr class="odd">
 <td>DC grid voltage ramp-up</td>
-<td>VOLTAGE\_REFERENCE.execute()</td>
+<td>VOLTAGE_REFERENCE.execute()</td>
 </tr>
 <tr class="even">
 <td>DC grid voltage ramp-up completed</td>
@@ -390,21 +390,21 @@ Examples of keywords that are used when monitoring with Wait Log are listed belo
 </tr>
 <tr class="even">
 <td>Start discharge</td>
-<td>DcdcControllingCommand\] DISCHARGE.execute()</td>
+<td>DcdcControllingCommand] DISCHARGE.execute()</td>
 <tr class="odd">
 <td>Current compensation successful</td>
 <td>compensated</td>
 </tr>
 <tr class="even">
 <td>Energy sharing deal started</td>
-<td>mediator.util.DealUtil\] deal started</td>
+<td>mediator.util.DealUtil] deal started</td>
 <tr class="odd">
 <td>Energy sharing deal in progress</td>
-<td>mediator.util.DealUtil\] deal cumulated</td>
+<td>mediator.util.DealUtil] deal cumulated</td>
 </tr>
 <tr class="even">
 <td>Energy sharing deal stopped</td>
-<td>mediator.util.DealUtil\] deal stopped</td>
+<td>mediator.util.DealUtil] deal stopped</td>
 </tbody>
 </table>
 
