@@ -10,7 +10,7 @@ APIS Tester is a tool for testing and evaluation of APIS. It can be used to eval
 Here is how to install apis-dcdc_batt_comm individually.   
 
 ```bash
-$ git clone https://github.com/SonyCSL/apis-tester.git
+$ git clone https://github.com/hyphae/apis-tester.git
 $ cd apis-tester
 $ bash venv.sh
 $ deactivate
@@ -37,12 +37,12 @@ $ deactivate
 ```
 
 ## Documentation
-&emsp;[apis-mian_tester_specification(EN)](https://github.com/SonyCSL/apis-tester/blob/main/doc/en/apis-tester_specification_EN.md)  
-&emsp;[apis-mian_tester_specification(JP)](https://github.com/SonyCSL/apis-tester/blob/main/doc/jp/apis-tester_specification_JP.md)
+&emsp;[apis-mian_tester_specification(EN)](https://github.com/hyphae/apis-tester/blob/main/doc/en/apis-tester_specification_EN.md)  
+&emsp;[apis-mian_tester_specification(JP)](https://github.com/hyphae/apis-tester/blob/main/doc/jp/apis-tester_specification_JP.md)
 
 ## License
-&emsp;[Apache License Version 2.0](https://github.com/SonyCSL/apis-tester/blob/main/LICENSE)
+&emsp;[Apache License Version 2.0](https://github.com/hyphae/apis-tester/blob/main/LICENSE)
 
 
 ## Notice
-&emsp;[Notice](https://github.com/SonyCSL/apis-tester/blob/main/NOTICE.md)
+&emsp;[Notice](https://github.com/hyphae/apis-tester/blob/main/NOTICE.md)
