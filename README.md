@@ -1,5 +1,6 @@
 # apis-tester
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/hyphae/apis-tester/badge)](https://scorecard.dev/viewer/?uri=github.com/hyphae/apis-tester)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12107/badge)](https://www.bestpractices.dev/projects/12107)
 
 ## Introduction  
 APIS Tester is a tool for testing and evaluation of APIS. It can be used to evaluate energy sharing and to schedule automatic execution of error processing evaluation and log the evaluation results. APIS Tester uses apis-web, which is connected by a communication line such as Ethernet, and the Web API provided by DC/DC converter device drivers to perform the operations needed for evaluation 
