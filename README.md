@@ -8,7 +8,7 @@ APIS Tester is a tool for testing and evaluation of APIS. It can be used to eval
 
 ## Installation
 
-Here is how to install apis-dcdc_batt_comm individually.   
+Here is how to install apis-tester.
 
 ```bash
 $ git clone https://github.com/hyphae/apis-tester.git
@@ -19,7 +19,7 @@ $ deactivate
 
 ## Running
 
-Here is how to run apis-tester individually.  
+Here is how to run apis-tester.  
 
 ```bash
 $ cd apis-tester
@@ -29,7 +29,7 @@ $ python3 startTester.py
 Go to "0.0.0.0:10000/" in Web browser.
 
 ## Stopping
-Here is how to stop apis-tester individually.  
+Here is how to stop apis-tester.  
 
 ```bash
 $ cd apis-tester
