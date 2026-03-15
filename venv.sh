@@ -9,5 +9,5 @@ fi
 
 $PYTHON -m venv venv
 . venv/bin/activate
-pip install --upgrade pip
+pip install --upgrade pip==26.0.1
 pip install -r requirements.txt
