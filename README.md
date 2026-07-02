@@ -14,8 +14,7 @@ Here is how to install apis-tester.
 ```bash
 $ git clone https://github.com/hyphae/apis-tester.git
 $ cd apis-tester
-$ bash venv.sh
-$ deactivate
+$ bash scripts/venv.sh
 ```
 
 ## Running
@@ -24,8 +23,7 @@ Here is how to run apis-tester.
 
 ```bash
 $ cd apis-tester
-$ . venv/bin/activate
-$ python3 startTester.py
+$ bash scripts/start.sh
 ```
 Go to "0.0.0.0:10000/" in Web browser.
 
@@ -34,8 +32,7 @@ Here is how to stop apis-tester.
 
 ```bash
 $ cd apis-tester
-$ bash stop.sh
-$ deactivate
+$ bash scripts/stop.sh
 ```
 
 ## Documentation
