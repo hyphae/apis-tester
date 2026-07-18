@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 echo 'call stop.sh'
 
 get_pids() {
