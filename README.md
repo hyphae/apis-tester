@@ -14,6 +14,9 @@ Here is how to install apis-tester.
 ```bash
 $ git clone https://github.com/hyphae/apis-tester.git
 $ cd apis-tester
+# install UV for virtual environment management if not already installed
+$ curl -LsSf https://astral.sh/uv/install.sh | sh
+# if already installed, then just install dependencies
 $ bash scripts/venv.sh
 ```
 
